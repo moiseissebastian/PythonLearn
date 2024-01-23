@@ -1,4 +1,4 @@
-# To make it easier I will put some GIT commands here for use in the future:
+# Para deixar as coisas mais fáceis, vou colocar aqui alguns comandos GIT que podem ser usados por mim no futuro:
 
 git init
 <br>git status
