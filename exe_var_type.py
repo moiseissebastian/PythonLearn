@@ -1,13 +1,13 @@
-name = 'Moiseis'
-surname = 'Sebastian'
-age = 26
-birth_year = 1997
-of_legal_age = age >= 18
-height_meters = 1.80
+nome = 'Moiseis'
+sobrenome = 'Sebastian'
+idade = 26
+ano_nascimento = 1997
+maior_de_idade = idade >= 18
+altura_metros = 1.80
 
-print('Name:',name)
-print('Surname:', surname)
-print('Age:', age)
-print('Birth Year:', birth_year)
-print('Are you of legal age?', of_legal_age)
-print('Height in meters?', height_meters)
+print('Nome:',nome)
+print('Sobrenome:', sobrenome)
+print('Idade:', idade)
+print('Ano de nascimento:', ano_nascimento)
+print('É maior de idade?', maior_de_idade)
+print('Altura em metros:', altura_metros)
